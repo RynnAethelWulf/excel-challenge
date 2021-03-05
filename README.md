@@ -4,7 +4,7 @@
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
 
 
 ## Intro
@@ -25,13 +25,13 @@ Using the Excel table provided, modified and analyzed the data of 4,000 past Kic
 
   ![Category Stats](Images/CategoryStats.PNG)
 
-  * Created a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
+  * Created a new sheet with a pivot table that will analyze my initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
   * Created a stacked column pivot chart that can be filtered by country based on the table I have created.
 
   ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
-  * Created a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
+  * Created a new sheet with a pivot table that will analyze my initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
   * Created a stacked column pivot chart that can be filtered by country and parent-category based on the table I have created.
 
@@ -106,7 +106,7 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 For additional challenge, evaluated the number of backers of successful and unsuccessful campaigns by creating **my own** summary statistics table.
 
-* Created a new worksheet in your workbook, and created a column each for the number of backers of successful campaigns and unsuccessful campaigns.
+* Created a new worksheet in my workbook, and created a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
   ![Images/backers01.png](Images/backers01.png)
 
